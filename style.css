@@ -21,14 +21,20 @@ h2 {
 h4 {
   color: green;
 }
-#connect {
-  color: blue;
-}
-.conf {
+#AFC {
   color: red;
+}
+#NFC {
+  color: blue;
 }
 #pic {
   display:block;
   margin-left: auto;
   margin-right: auto;
+}
+#Pats {
+  width: 100px;
+}
+#Panths {
+  width: 100px;
 }
