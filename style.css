@@ -1,9 +1,7 @@
 body {
   font-family: 'helvetica neue', arial, sans-serif;
   font-weight: 500;
-  background-repeat: repeat-x;
-  background-image: url(http://www.vminnovations.com/sys/resource.ashx?guid=158de25c82774166aad87698b7a9311b&w=1000&h=520);
-  background-size: 50%;
+  background-image: url(http://cdn.fabulousblogging.com/wp-content/uploads/2012/10/emilie_blog_bg.jpg?e3a195);
 }
 #wrapper {
   width: 960px;
@@ -37,4 +35,10 @@ h4 {
 }
 #Panths {
   width: 100px;
+}
+#travelintro {
+  text-align: center;
+}
+.places {
+  width: 300px;
 }
